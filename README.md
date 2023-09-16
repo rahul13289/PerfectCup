@@ -1,6 +1,6 @@
 # Creation of perfectcup blog-Learned from master in web devlopment course provided by udemy
 
-![image](https://github.com/rahul13289/PerfectCup/assets/97829880/d8e2b27e-0281-4696-8269-7a307d511bc4)
+![image](https://github.com/rahul13289/PerfectCup/assets/97829880/ad8f6631-7af5-4ecd-86d9-5595ff85901b)
 
 # About the blog
 
